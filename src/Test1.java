@@ -6,6 +6,6 @@ public class Test1 extends ABC{
 		t1obj.m1();
 		System.out.println("HElooooooooo");
 		System.out.println("HElooooooooo");
-		System.out.println("HElooooooooo");
+		System.out.println("barkhaaaaaaaaaaa");
 	}
 }
