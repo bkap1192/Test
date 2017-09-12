@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" thread-count="3" parallel="tests" >
+
+
+<listeners>
+
+<!--  <listener class-name="SamplePackage.CustReport1"></listener>-->
+
+<listener class-name="SamplePackage.CustReport2">
+
+</listener>
+
+</listeners>
+
+<test name="SampleTest">
+<classes>
+
+<!--  
+<class name="SamplePackage.Test1"> </class>-->
+
+<class name="SamplePackage.Test2">
+</class>
+
+
+
+
+</classes>
+
+
+</test>
+
+
+
+
+
+
+
+<!--  
+<test name="ChromeTest">
+
+<parameter name="browser" value="Chrome" />
+
+<classes>
+
+<class name="SamplePackage.SampleTest">
+
+</class>
+
+</classes>
+
+</test>
+-->
+
+
+<!--  
+<test name="FirefoxTest">
+
+<parameter name="browser" value="Firefox" />
+
+<classes>
+
+<class name="SamplePackage.SampleTest"/>
+<class name="SamplePackage.SampleTest1"/>
+
+
+</classes>
+
+</test>
+-->
+
+
+
+ <!-- 
+<test name="IETest">
+
+<parameter name="browser" value="IE" />
+
+<classes>
+
+<class name="SamplePackage.SampleTest"/>
+<class name="SamplePackage.SampleTest1"/>
+
+
+
+</classes>
+
+</test>
+ -->
+
+
+
+
+</suite>

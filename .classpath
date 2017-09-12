@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/qa/Downloads/selenium-server-standalone-2.46.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qa/Downloads/pdfbox-1.8.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qa/Downloads/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qa/Downloads/poi-ooxml-3.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qa/Downloads/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qa/Downloads/opencsv-2.1-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qa/Downloads/fillo-1.15.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
